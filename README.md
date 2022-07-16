@@ -38,8 +38,7 @@ TODO
 @Composable
 fun Ducky(
     modifier: Modifier = Modifier // 필수, 무조건 첫 번째 인자 및 default argument 로 돼야 함
-) {
-}
+)
 ```
 
 2. List 대신 ImmutableList 사용
@@ -50,7 +49,10 @@ fun Ducky(
 @Composable
 fun Ducky(
     lists: ImmutableList<String>
-}
+)
 ```
+
+a. named-argument 필수? (단, 일부 예외 있을 수 있음)
+b. 모든 인자는 new-line 으로 배치? (단, 일부 예외 있을 수 있음)
 
 ... TODO
