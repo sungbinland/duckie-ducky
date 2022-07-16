@@ -6,15 +6,19 @@ ducky 는 3개로 구성된 duckie 의 디자인 시스템 입니다.
 
 ---
 
-### UI
+## UI
 
 TODO
 
-### Writing
+
+
+## Writing
 
 ... TODO
 
-### Compose
+
+
+## Compose
 
 1. Modifier 첫 번째 인자 및 default argument 설정 필수
 
@@ -44,7 +48,9 @@ b. 모든 인자는 new-line 으로 배치? (단, 일부 예외 있을 수 있�
 
 ... TODO
 
-### Generic
+
+
+## Generic
 
 1. 상단에 Copyright 2번 감지
 
