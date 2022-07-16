@@ -12,20 +12,6 @@ TODO
 
 ### Writing
 
-1. 상단에 Copyright 2번 감지
-
-```
-/*
- * Copyright 1
- */
-
-/*
- * Copyright 2
- */
- 
- // Error!
-```
-
 ... TODO
 
 ### Compose
@@ -57,3 +43,21 @@ a. named-argument 필수? (단, 일부 예외 있을 수 있음)
 b. 모든 인자는 new-line 으로 배치? (단, 일부 예외 있을 수 있음)
 
 ... TODO
+
+### Generic
+
+1. 상단에 Copyright 2번 감지
+
+```
+/*
+ * Copyright 1
+ */
+
+/*
+ * Copyright 2
+ */
+ 
+ // Error!
+```
+
+a. 인자 끝 항상 `,` 으로 끝낼지?
